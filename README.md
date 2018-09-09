@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # khan-core
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/PaulaoDev/khan-cli.svg)](https://greenkeeper.io/)
+
 Core khan
 =======
 # khan-cli
